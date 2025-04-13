@@ -1,0 +1,42 @@
+Autoboxing Unboxing Sum
+
+Enter numbers separated by spaces:
+20 40 50 10 12
+The sum of the list is: 132
+
+
+
+Student Serialization Deserialization
+
+Student object serialized successfully.
+Deserialized Student:
+Student Name: Aaroh Gaur
+Age: 20
+Department: Computer Science
+
+
+
+Employee System
+
+1. Add an Employee
+2. Display All Employees
+3. Exit
+Enter your choice: 1
+Enter Employee ID: 102
+Enter Employee Name: Mayank
+Enter Designation: Teacher
+Enter Salary: 140000 
+Employee added successfully!
+
+1. Add an Employee
+2. Display All Employees
+3. Exit
+Enter your choice: 2
+Employee Details:
+Employee ID: 101, Name: Aaroh Gaur, Designation: Student, Salary: 40000.0
+Employee ID: 102, Name: Mayank, Designation: Teacher, Salary: 140000.0
+1. Add an Employee
+2. Display All Employees
+3. Exit
+Enter your choice: 3
+Exiting the application.
